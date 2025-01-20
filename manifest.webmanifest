@@ -1,11 +1,11 @@
 {
-    "name": "Nine Square",
-    "short_name": "Nine Square",
+    "name": "Omaha Royale",
+    "short_name": "Omaha Royale",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "9 Square Poker",
+    "description": "Omaha Royale",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
